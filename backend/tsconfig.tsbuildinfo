@@ -1,0 +1,1 @@
+{"root":["./src/db.ts","./src/db2.ts","./src/index.ts","./src/middleware.ts","./src/routes/account.ts","./src/routes/index.ts","./src/routes/user.ts"],"version":"5.7.2"}
